@@ -121,6 +121,10 @@ primitive 原始的 savage 兇殘的 metal 金屬 instrument 樂器
 1.People have lived in this valley since ancient times.
 2.He's got an ancient laptap.
 3.The ancient Britons inhabited these parts of England before the Roman invasion.
-
 valley [ˈvæli] 山谷 laptap 筆電 inhabit 居住於 briton 英國人 invation
 入侵
+		19.descendant(n)後代
+1.He has no descendant.
+2.They claim to be descendants of a French duke.
+3.We owe it to our descendants to leave them a clean world to live in.
+claim(v)宣稱 duke 公爵 owe 欠
