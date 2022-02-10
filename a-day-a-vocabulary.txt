@@ -135,10 +135,17 @@ claim(v)宣稱 duke 公爵 owe 欠
 opposite 對面的 religion[rɪˈlɪdʒən]宗教 wonder 奇跡
 		21.accident(n)意外
 1.Josh had an accident and spilled all over his work.
-2.She was injured in a car ac下午 08:10 2022/2/8cident.
+2.She was injured in a car accident.
 injur 受傷
-		22.town(n)城鎮 
+		22.town(n)城鎮
 1.We stayed in the best hotel in town.
 2.Wuling road is the main road into town.
 3.We went up to town to see a play.
 play 戲劇
+		23.helicopter(n)直升機
+1.The injured were ferried to hospital by helicopter.
+2.The helicopter made a drop of much-needed supplies to the stranded hiker.
+3.I heard the noise of a helicopter hovering overhead.
+ferry 運送 stranded 被困住的 hover['hʌvɚ] 盤旋 overhead 在頭頂上的
+		
+
