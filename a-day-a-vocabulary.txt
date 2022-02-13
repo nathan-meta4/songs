@@ -147,5 +147,15 @@ play 戲劇
 2.The helicopter made a drop of much-needed supplies to the stranded hiker.
 3.I heard the noise of a helicopter hovering overhead.
 ferry 運送 stranded 被困住的 hover['hʌvɚ] 盤旋 overhead 在頭頂上的
-		
+		24.missing (adj.)消失的
+1.Her father has been missing since September 1992.
+2.When did you realize that the money was missing from your account?
+3.He was listed as missing in action.
+realize[ˈriə.laɪz]意識到 action 戰鬥
+		25.work at 在...工作,致力於
+1.Most couples would agree that for a marriage to succeed, both parties 
+have to work at it.
+2.You need to work at improving your writing.
+3.I need to work at my piano playing.
+improve 改善 		
 
