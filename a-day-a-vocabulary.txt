@@ -115,12 +115,14 @@ argument(n.)爭論 can be 有時 argue 表明
 		17.ancestor(n)祖先,原型[ˈæn.ses.tɚ]
 1.There were portraits of his ancestors on the walls of the room.
 2.This wooden instrument is the ancestor of the modern metal flute.
-3.Twelve thousand years ago, our ancestors were primitive savages living in caves.
+3.Twelve thousand years ago, our ancestors were primitive savages living in
+caves.
 primitive 原始的 savage 兇殘的 metal 金屬 instrument 樂器
 		18.ancient(adj.)
 1.People have lived in this valley since ancient times.
 2.He's got an ancient laptap.
-3.The ancient Britons inhabited these parts of England before the Roman invasion.
+3.The ancient Britons inhabited these parts of England before the Roman
+invasion.
 valley [ˈvæli] 山谷 laptap 筆電 inhabit 居住於 briton 英國人 invation
 入侵
 		19.descendant(n)後代
@@ -162,4 +164,11 @@ improve 改善
 1.While in hiding, Anne Frank kept a diary.
 2.Don't forget to write the date of the meeting in your diary.
 3.Hold on,I'll check in my diary.
+		27.process(n)過程(v)處理
+1.Going to court to obtain compensation is a long process.
+2.It's all part of the learning process.
+3.Visa applications take 28 days to process.
+4.I need to get those films processed. 
+court 求取 obtain 得到 conpensation 賠賞金
+visa 簽證 application 申請 film 底片
  		
