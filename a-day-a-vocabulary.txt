@@ -146,7 +146,8 @@ injur 受傷
 play 戲劇
 		23.helicopter(n)直升機
 1.The injured were ferried to hospital by helicopter.
-2.The helicopter made a drop of much-needed supplies to the stranded hiker.
+2.The helicopter made a drop of much-needed supplies 
+to the stranded hiker.
 3.I heard the noise of a helicopter hovering overhead.
 ferry 運送 stranded 被困住的 hover['hʌvɚ] 盤旋 overhead 在頭頂上的
 		24.missing (adj.)消失的
@@ -155,20 +156,60 @@ ferry 運送 stranded 被困住的 hover['hʌvɚ] 盤旋 overhead 在頭頂上�
 3.He was listed as missing in action.
 realize[ˈriə.laɪz]意識到 action 戰鬥
 		25.work at 在...工作,致力於
-1.Most couples would agree that for a marriage to succeed, both parties 
-have to work at it.
+1.Most couples would agree that for a marriage to 
+succeed, both parties have to work at it.
 2.You need to work at improving your writing.
 3.I need to work at my piano playing.
 improve 改善
 		26.diary(n)日記
 1.While in hiding, Anne Frank kept a diary.
-2.Don't forget to write the date of the meeting in your diary.
+2.Don't forget to write the date of the meeting in your
+diary.
 3.Hold on,I'll check in my diary.
 		27.process(n)過程(v)處理
-1.Going to court to obtain compensation is a long process.
+1.Going to court to obtain compensation is a long 
+process.
 2.It's all part of the learning process.
 3.Visa applications take 28 days to process.
 4.I need to get those films processed. 
 court 求取 obtain 得到 conpensation 賠賞金
 visa 簽證 application 申請 film 底片
+		28.moment(n)時刻
+1.Have you got a moment?
+2.Don't leave it to the last moment.
+3.Sorry, she's not here at the moment.
+
+		29.above(adv)(preposition 介係詞)
+		在...上方
+1.There's a mirror above the sink.
+2.A crack had started to appear just above the light
+on the ceiling.
+3.Sally's a grade above me.(Sally 高我一年級)
+4.The letter was sent to the above address.
+		*介係詞:in,on,at
+|補充|'on' vs 'over' vs 'above'
+on : 在...上面
+over : 在...正上方
+above : ...高於...
+		30.immediately(adv.)立刻
+1.We really ought to leave immediately.
+2.We heard a loud crash from the room immediately.
+3.The people most immediately affected by the drought
+are the farmers themselves. 
+
+ought to 應該 loud 大聲的 crash 墜毀 affect(v)影響
+|補充|'affect' vs 'effect'
+affect 影響→(v.)
+effect 影響→(n.)
+		31.mind(n.)頭腦(v.)介意
+1.Her mind was full of what had happened the night before,
+and she just wasn't concentrating.
+2.She was one of the most brilliant mind of the last century.
+3.Do you think he'd mind if I borrowed his book?
+concetrate(v) 專注 century[ˈsentʃəri] 世紀 brilliant 聰明的
+
+    
+
+
+
  		
