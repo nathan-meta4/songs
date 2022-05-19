@@ -217,6 +217,8 @@ luxury [ˈlʌkʃɚi] 奢華 public(adj.) 大眾的
 2.I'd like a steak and kidney pie, please.
 3.She fried some kidneys in butter.
 operation 手術
+		34.happy(n) 快樂
+1.I'm happy.
 
     
 
