@@ -115,8 +115,8 @@ argument(n.)爭論 can be 有時 argue 表明
 		17.ancestor(n)祖先,原型[ˈæn.ses.tɚ]
 1.There were portraits of his ancestors on the walls of the room.
 2.This wooden instrument is the ancestor of the modern metal flute.
-3.Twelve thousand years ago, our ancestors were primitive savages living in
-caves.
+3.Twelve thousand years ago, our ancestors were primitive savages 
+living in caves.
 primitive 原始的 savage 兇殘的 metal 金屬 instrument 樂器
 		18.ancient(adj.)
 1.People have lived in this valley since ancient times.
@@ -222,8 +222,69 @@ operation 手術
 2.I never go shopping on weekday.
 3.Yu-Long Braised pork rice is only open on weekdays.
 braised 悶、燉 
-    
+		35.summarize(v)概括, 大意
+1.I'll just summarize the main points of the argument in a few words.
+2.To summarize, we believe the company cannot continue in its present 
+form.
+3.To summarize, coffin bread is the best food of Taiwanese snacks.
+argument 爭論   form 型式  To summarize 總而言之 coffin bread 棺材板
+		36.trainer 教練, 運動鞋
+1.They showed picture of the horse and its trainer.
+2.A lot of weathy people have their own personal trainer.
+3.I bought trainers on Saturday.
+		37.trophy 獎盃
+1.He's an excellent rider, but he's never won a major traphy.
+2.The animal heads on the wall were trophies of his hunting trips.
+3.The Duchess of Cambridge will be presenting the trophies.
+major 主要的 present(n)禮物(v)贈送(adj)出席的
+		38.vanish 消失
+1.The child vanished while on her way home from school.
+2.We ran out after the thief, but he had vanished into thin air.
+3.When the milk was spilled, all the castles in the air 
+ vanished in a moment!
+*castles in the air 空中樓閣
+		39.rucksack(n),(v) 後背包 (= backpack)
+1.It's a frame backpack with a belt and padded shoulder straps.
+2.We bacpacked around Thailand.
+3.I always bring my backpack and wear trainers
+when I climb a mountain.
+frame 支架  pad 坐墊 shoulder 肩膀 strap 帶子 Thailand[ˈtaɪlænd]泰國
 
+ 		*名詞+ed→形容詞S
+		 動詞+ed→過去式
+		 形容詞+ed→人覺得...
 
-
- 		
+		40.ought[at] 應該
+1.You ought to be kinder to him.
+2.If you show the receipt, there ought not to be any difficulty
+getting your money back.
+3.They ought to have arrived at lunchtime but the flight was delayed.
+receipt 收據
+		41.certain 肯定的,某位,有限的(= sure)
+		(adj.形容詞)(det.限定詞)(pronoun代名詞)
+1.The police seem certain that they will find the people responsible 
+for the attack.
+2.After all his hard work, he's certain to pass his exam.
+3.I had lunch today with a certain George Michael - not 
+the George Michael, I should explain.
+4.I like modern art to a certain degree, but I don't like the really
+experimental stuff.
+responsible 負責的 seem 似乎 experimental 實驗的 stuff 東西 degree 程度
+		*seen → see,saw,seen
+	 	 seem →  似乎
+		42.twin 雙胞胎
+1.My sister has twin sons.
+2.The two countries are often regarded as economic twins.
+3.His twin obsessions - women and cars
+regard 看待 economic 經濟 obsession 癡迷
+		43.quilt 被子 (=duvet [dju'veɪ])
+1.Let's go to the department store buy a quilt.
+2.I like to eat oyster omelet under the quilt.
+(=I like to eat oyster omelet in bed.)
+3.I'm certain this quilt was stolen yesterday. 
+oyster 蛤仔 omelet 煎蛋餅
+		44.railway 鐵路
+1.We live close to the railway line.
+2.She travelled across Siberia on the Trans-Siberian railway.
+3.Thomas Grant worked on the railway for 50 years.
+Seberian 西伯利亞
