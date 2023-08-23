@@ -286,5 +286,104 @@ oyster 蛤仔 omelet 煎蛋餅
 		44.railway 鐵路
 1.We live close to the railway line.
 2.She travelled across Siberia on the Trans-Siberian railway.
-3.Thomas Grant worked on the railway for 50 years.
+3.Thomas Grant worked on thes railway for 50 years.
 Seberian 西伯利亞
+		45.cube(n),(v)立方體 
+1.Cut the cheese into small cubes.
+2.2 cubed equals 8, and is written 2‭3.
+3.Let's mix the stock cube and water, then the corn chowder is
+done.
+card 撲克牌  stock cube 湯料塊 chowder 雜燴濃湯 stock 儲備物
+		46.minor 次要的,  未成年人
+1.It's only a minor operation. Don't Worry!
+2.Let's listen to Mozart's Piano Concerto in D minor.
+3.He was accused of having sex with a minor.
+operation 手術 concerto 協奏曲 accuse 指控  sex 性別
+
+          *C和弦 = C major
+		Cm和弦  = C minor
+		CM7 = c major 7
+		Cm7 = c minor 7
+
+		47.major 主要的, 少校
+1.Sugar is a major cause of tooth decay.
+2.Her father was a major in the Scots Guards.
+3.What's your major, English  or French?
+decay 腐蝕  Scots(=Scottish)蘇格蘭的 guard 近衛團
+		48.envy (n) (v)羨慕
+1.I envy her ability to talk to people she's never met before.
+2.I watched with envy as she set off for the airport.
+3.Her hair is the envy of the office.
+set off/out 出發
+
+		49.sapphire [ˈsæfaɪr] (n) 藍寶石
+1.The winner of the race can get a sapphire ring.
+2.The sky is as blue as a sapphire today.
+		50.draw 抽出
+1.You can draw 3 cards when you use the first move of meowth.
+		51.position (n) (v)位置
+1.Well, I've found our position on the map 
+if you want see where we are.
+2.I didn't know you play LOL - what position do you play?
+3.What's the company's position on recycling?
+4.The army had been positioned to the north and east of the city.
+		52.inner (adj.) 裡面的
+1.Leading off the main hall is a series of small inner rooms.
+lead off 首先 lead 領導 hall 大廳  series 一連串
+		53.upset (v) (adj)使...生氣
+1.It still upsets him when he thinks about the accident.
+2.He can't eat grapes - they upset his stomach.
+3.He was very upset that you didn't reply to his emails.
+
+
+		Funday 
+1.Speaking of which, I can hardly resist the sweet aromas 
+coming from the store.
+2.The soldier resisted for two days.
+3.Brazil's Amazon Rainforest, also known as the lung of earth.
+
+hardly 幾乎不  resist 抗拒 soldier 士兵 lung 肺
+
+
+
+		54.utility 用途
+1.The utility of this substance has been proved in a series of tests.
+substance 物質 prove 證明
+		55.appeal (n),(v)吸引力
+1.This used to be a marvellous hotel but it has lost its appeal 
+in a recent years.
+2.The polece are appealing to the public for any imformation about 
+the missing girl.
+marvellous (=excellent) recent 最近的 public(n) 民眾
+		56.standard 標準
+1.We have very high safety  standards in this laboratory.
+laboratory 實驗室
+
+when it comes to watchmaking, Oris stands out as an established brand
+that has been perfecting its craft for more than 100 years.
+
+stand out 出眾 established (adj)知名的  brand 品牌 craft (n)手藝
+cheer ... up 使...振作
+
+		57.intricate 複雜的
+1.The police uncovered an intricate web of deceit.
+deceit 詐騙
+
+		58.remote 遙遠的
+1.It happened in the remote past, so no one worries about it any more.
+2.Morgana lives in a remote mountain village, so 
+she spend a lot of time going to school every day. 
+3.The chances of a visit by Martians to Earth are remote.
+Martians 火星人
+		
+		59.pack 打包
+1.These books need to be packed in/into a box.
+2.Fans packed the stadium to watch final game.
+3.The wind has packed the snow against the garage door.
+4.The people on the bus were packed like sardines.
+sardine 沙丁魚罐頭
+
+		60.wander 漫步(v)
+1.We sent the mornin wandering around the old part of the city.
+2.We've wandered from the point somewhat.
+3.Halfway through the meeting my mind started to wander.
