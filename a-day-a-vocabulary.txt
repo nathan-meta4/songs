@@ -291,7 +291,7 @@ Seberian 西伯利亞
 <<<<<<< HEAD
 		45.cube(n),(v)立方體 
 1.Cut the cheese into small cubes.
-2.2 cubed equals 8, and is written 2‭3.
+2.2 cubed equals 8, and is written 2^3.
 3.Let's mix the stock cube and water, then the corn chowder is
 done.
 card 撲克牌  stock cube 湯料塊 chowder 雜燴濃湯 stock 儲備物
