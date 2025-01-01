@@ -59,3 +59,5 @@ As we silently stood by his side. `當我們默默地站在他身邊時`
 And its hand never hung by its side. `而且它的手永遠不會掛在身邊`
 But it stopped short, never to go again, `但它靜下再也不走了`
 When the old man died. `爺爺走後`
+
+END

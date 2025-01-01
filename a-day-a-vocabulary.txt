@@ -389,7 +389,7 @@ sardine 沙丁魚罐頭
 2.We've wandered from the point somewhat.
 3.Halfway through the meeting my mind started to wander.
 =======
-		45.wipe (v) 擦 (n) 抹；紙巾
+		61.wipe (v) 擦 (n) 抹；紙巾
 1.Do you have some papaer towels that I can wipe the floor with?
 2.I'd better give the flor a quick before someone slip on it.
 *wipe sth off the map 使他從地圖上消失；完全摧毀*
@@ -398,5 +398,3 @@ sardine 沙丁魚罐頭
 4."I hear Italy bear France in the semifinals last night.
   "Beat them? They wiped the floor with them!"
 滑倒(v) slip  semifinal 半決賽
- 
->>>>>>> f6a033aebdac9fd2cef64635ae44aaf57d293654
